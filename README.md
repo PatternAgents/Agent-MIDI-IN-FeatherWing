@@ -35,7 +35,9 @@ The PatternAgents "Featherwing & Grovey Series" boards were designed as "Everyda
 
 ## Documentation Index <a name="documentation_index"/>
 
-[Schematics](https://github.com/PatternAgents/Agent-MIDI-IN-FeatherWing/blob/master/Agent-MIDI-IN-FeatherWing/documentation/Agent_MIDI-IN_FeatherWing_R1_0_0_sch.pdf)
+[Schematics](https://github.com/PatternAgents/Agent-MIDI-IN-FeatherWing/blob/master/Agent-MIDI-IN-FeatherWing/hardware/Agent_MIDI-IN_FeatherWing_R1_0_0_sch.pdf)
+[Assembly Diagram](https://github.com/PatternAgents/Agent-MIDI-IN-FeatherWing/blob/master/Agent-MIDI-IN-FeatherWing/hardware/Agent_MIDI-IN_FeatherWing_R1_0_0_assembly.pdf)
+[Bill of Materials](https://github.com/PatternAgents/Agent-MIDI-IN-FeatherWing/blob/master/Agent-MIDI-IN-FeatherWing/hardware/Agent_MIDI-IN_FeatherWing_R1_0_0_bom.csv)
 
 
 ---------------------------------------
