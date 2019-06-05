@@ -4,18 +4,23 @@ The PatternAgents MIDI-IN FeatherWing allows you to connect [Adafruit Feather CP
 to Musical Instruments and Controllers using the Musical Instrument Digital Interface (MIDI). 
 
 The PatternAgents "Featherwing & Grovey Series" boards were designed as "Everyday Electronics", a no-frills, low cost, approach to modular embedded product design.
-"Featherwing & Grovey Series" boards are similar in size to most break-out-boards (BOBs), but feature a standardized stacking pinout. 
+"Featherwing & Grovey Series" boards are similar in size to most break-out-boards (BOBs), but feature a standardized stacking pinout, to facilitate rapid prototyping.
 
 ---------------------------------------
 
 * [Optically Coupled Interface](https://www.vishay.com/doc?84732)
 * [FeatherWing Compatible Module](https://learn.adafruit.com/adafruit-feather/feather-specification)
 * [3.3V Operation](https://learn.adafruit.com/adafruit-feather/feather-specification)
+* Solder Configurable Input Pin
+  * RXD
+  * MISO
+  * GPI12
+  * GPI5
 
 ---------------------------------------
 ## Example Applications
 
-* [MIDI to USB](https://github.com/patternagents/Agent-MIDI-IN-FeatherWing/) 
+* [MIDI to USB](https://github.com/patternagents/Agent-MIDI-IN-FeatherWing/) with any USB based Feather CPU
 
 ---------------------------------------
 
