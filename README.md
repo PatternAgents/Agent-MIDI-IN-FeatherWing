@@ -15,6 +15,8 @@ to Musical Instruments and Controllers using the Musical Instrument Digital Inte
   * GPI12
   * GPI5
 
+[![Agent-MIDI-IN-FeatherWing Top](https://github.com/patternagents/Agent-MIDI-IN-FeatherWing/blob/master/Agent-MIDI-IN-FeatherWing/images/Agent-MIDI-IN-FeatherWing_BLK_top.png?raw=true)Agent-MIDI-IN-FeatherWing Top](https://github.com/patternagents/Agent-MIDI-IN-FeatherWing/)
+
 ---------------------------------------
 ## Example Applications
 
